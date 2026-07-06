@@ -1,9 +1,14 @@
-﻿{
+{
     "game":  "WoW MoP 5.4.8",
     "version":  "1.0.0",
     "baseUrl":  "https://ilyamikhailovv.github.io/wow-mop-updates/files/",
-    "generatedAt":  "2026-07-06T13:28:52Z",
+    "generatedAt":  "2026-07-06T13:53:58Z",
     "files":  [
+                  {
+                      "path":  "Data/ruRU/CharBaseInfo.dbc",
+                      "size":  1005,
+                      "sha256":  "b12392d893e963344e6ae46c2e9370728aea10b46771bae48c8540de20a5e9c3"
+                  },
                   {
                       "path":  "Data/ruRU/testupdate.txt",
                       "size":  0,
