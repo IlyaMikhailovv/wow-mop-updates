@@ -1,0 +1,18 @@
+﻿{
+    "game":  "WoW MoP 5.4.8",
+    "version":  "1.0.0",
+    "baseUrl":  "https://ilyamikhailovv.github.io/wow-mop-updates/files/",
+    "generatedAt":  "2026-07-06T13:28:52Z",
+    "files":  [
+                  {
+                      "path":  "Data/ruRU/testupdate.txt",
+                      "size":  0,
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                  },
+                  {
+                      "path":  "Data/ruRU/z-patch-1.mpq",
+                      "size":  66259,
+                      "sha256":  "c77851acc311e0056dda1eda515cbf79c0e0d1ca4f2bc54a0924c988b7d07b6d"
+                  }
+              ]
+}
