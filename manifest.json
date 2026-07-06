@@ -2,12 +2,12 @@
     "game":  "WoW MoP 5.4.8",
     "version":  "1.0.1",
     "baseUrl":  "https://ilyamikhailovv.github.io/wow-mop-updates/files/",
-    "generatedAt":  "2026-07-06T14:39:09Z",
+    "generatedAt":  "2026-07-06T14:47:00Z",
     "files":  [
                   {
                       "path":  "Data/ruRU/lasttets.txt",
-                      "size":  0,
-                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                      "size":  4,
+                      "sha256":  "2efb3b9183cd5cbd640874c3de9be1e7261b1382129b326a2a1ca36f4ed1fcb5"
                   },
                   {
                       "path":  "Data/ruRU/newtest.txt",
